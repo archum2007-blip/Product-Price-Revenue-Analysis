@@ -31,3 +31,8 @@ plt.title("Price vs Revenue")
 plt.xlabel("Price")
 plt.ylabel("Revenue")
 plt.show()
+print("\nConclusion:")
+
+print("The highest revenue earned is ₹2800, achieved at both ₹35 and ₹40.")
+print("However, ₹35 is the better selling price because it generates the same revenue while selling more bottles.")
+print("Therefore, the shop owner should choose ₹35 as the selling price.")
